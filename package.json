@@ -182,5 +182,11 @@
   "volta": {
     "node": "18.18.2",
     "npm": "9.8.1"
+  },
+  "overrides": {
+    "underscore": ">=1.13.8"
+  },
+  "resolutions": {
+    "underscore": ">=1.13.8"
   }
 }
