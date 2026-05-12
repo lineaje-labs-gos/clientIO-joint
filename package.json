@@ -68,7 +68,7 @@
     "lint:fix": "npm run lint -- --fix"
   },
   "sideEffects": false,
-  "version": "3.7.7",
+  "version": "3.7.7-lineaje-01",
   "main": "dist/joint.min.js",
   "module": "joint.mjs",
   "style": "./dist/joint.min.css",
@@ -86,11 +86,15 @@
     "Arthur Khokhlov <arthur@jointjs.com> (https://github.com/Geliogabalus)",
     "Martin Kanera <martin@jointjs.com> (https://github.com/MartinKanera)",
     "Vojtech Kohout <vojtech@jointjs.com> (https://github.com/Tharos)",
-    "Zbynek Stara <zbynek@jointjs.com> (https://github.com/zbynekstara)"
+    "Zbynek Stara <zbynek@jointjs.com> (https://github.com/zbynekstara)",
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/clientIO/joint.git"
+    "url": "https://github.com/lineaje-labs-gos/clientIO-joint"
   },
   "bugs": {
     "url": "https://github.com/clientIO/joint/issues"
