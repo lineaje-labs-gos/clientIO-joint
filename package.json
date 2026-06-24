@@ -68,7 +68,7 @@
     "lint:fix": "npm run lint -- --fix"
   },
   "sideEffects": false,
-  "version": "3.7.7-lineaje-01",
+  "version": "3.7.7-lineaje-02",
   "main": "dist/joint.min.js",
   "module": "joint.mjs",
   "style": "./dist/joint.min.css",
